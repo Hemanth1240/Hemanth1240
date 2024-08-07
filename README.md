@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemanth Paluri</h1>
 <h3 align="center">Interested in Data Scientist Role</h3>
 <img align = "right" alt = "Coding" width = 400 src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth1240&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth1240" /> </p>
 
 - 🔭 I’m currently working on [CO-PO Mapping](https://github.com/Hemanth1240/CO-PO-Mapping)
@@ -30,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth1240&show_icons=true&locale=en&layout=compact" alt="hemanth1240" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanth1240&show_icons=true&locale=en" alt="hemanth1240" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth1240&" alt="hemanth1240" /></p>
