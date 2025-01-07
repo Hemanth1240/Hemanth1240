@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CO-PO Mapping](https://github.com/Hemanth1240/CO-PO-Mapping)
 
-- 🌱 I’m currently learning **Java Full Stack from Wipro PBL**
+- 🌱 I’m currently learning **Dart Programming**
 
 - 💬 Ask me about **Java, Python, ML**
 
